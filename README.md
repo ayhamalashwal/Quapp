@@ -144,6 +144,16 @@ Quapp is powered by **QuantLab**, a Python quantitative finance library implemen
 
 ---
 
+## Documentation
+
+Detailed explanations of the models and mathematics:
+
+- [Option Pricing](docs/pricing.md)
+- [Option Greeks](docs/greeks.md)
+- [Volatility Tools](docs/volatility.md)
+- [QuantLab Architecture](docs/models.md)
+---
+
 ## License
 
 MIT License
