@@ -3,7 +3,9 @@
 **Quapp** is an interactive quantitative finance dashboard built with **Streamlit** and powered by the **QuantLab** pricing library.
 
 It allows users to explore European option pricing models, visualize risk sensitivities (Greeks), and compare analytical and numerical pricing approaches through an interactive interface.
+## Dashboard Preview
 
+![Quapp Dashboard](assets/Dashboard_demo.png)
 ---
 
 ## Features
