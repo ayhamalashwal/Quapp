@@ -54,7 +54,7 @@ st.caption(
 # Sidebar Controls
 # -----------------------
 
-st.sidebar.header("ption Parameters")
+st.sidebar.header("Option Parameters")
 
 
 spot = st.sidebar.slider(
