@@ -5,7 +5,7 @@
 It allows users to explore European option pricing models, visualize risk sensitivities (Greeks), and compare analytical and numerical pricing approaches through an interactive interface.
 ## Dashboard Preview
 
-![Quapp Dashboard](assets/Dashboard_demo.png)
+![Quapp Dashboard](assets/dashboard.png)
 ---
 
 ## Features
