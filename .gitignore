@@ -1,4 +1,25 @@
-.venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Streamlit
 .streamlit/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+*.egg-info/
