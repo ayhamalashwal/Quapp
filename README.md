@@ -69,39 +69,40 @@ QuantLab provides:
 
 ## Installation
 
-Clone the repository:
+### Prerequisites
 
-```
+Before running Quapp, make sure you have:
+
+- Python 3.10+
+- Git
+
+### Clone the repository
+
+```bash
 git clone https://github.com/ayhamalashwal/Quapp.git
 cd Quapp
 ```
 
-Create a virtual environment:
+### Create a virtual environment
 
-```
-python -m venv .venv
-```
-
-Activate it:
-
-Linux/macOS:
-
-```
+```bash
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-Windows:
+### Install dependencies
 
-```
-.venv\Scripts\activate
-```
-
-Install dependencies:
-
-```
+```bash
 pip install -r requirements.txt
 ```
 
+This automatically installs the latest version of **QuantLab** directly from GitHub.
+
+### Run Quapp
+
+```bash
+streamlit run app.py
+```
 ---
 
 ## Running the Dashboard

@@ -3,3 +3,4 @@ numpy
 scipy
 plotly
 pandas
+git+https://github.com/ayhamalashwal/QuantLab.git
