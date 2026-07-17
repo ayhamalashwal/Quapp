@@ -96,7 +96,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-This automatically installs the latest version of **QuantLab** directly from GitHub.
+This automatically installs **QuantLab** directly from GitHub.
 
 ### Run Quapp
 
