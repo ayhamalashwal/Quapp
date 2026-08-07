@@ -88,7 +88,7 @@ def price_vs_volatility(option, model):
 
 def price_vs_time(option, model):
 
-    times = np.linspace(0.05, 5, 100)
+    times = np.linspace(0.01, option.maturity, 100)
 
     prices = []
 
@@ -118,7 +118,7 @@ def price_vs_time(option, model):
 
     fig.update_layout(
         title="Option Price vs Time",
-        xaxis_title="Years",
+        xaxis_title="Time to Expiration (Years)",
         yaxis_title="Option Price"
     )
 
